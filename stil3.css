@@ -1,0 +1,87 @@
+body {background-color:silver;}
+table#t01 {width:100%}
+table#t01 {background-color: steelblue}
+table#t01 th {border: 1px solid black;}
+a:link{
+	color:black;
+	text-decoration: none;
+}
+a:visited{
+	color:black;
+	text-decoration: none;
+}
+a:hover{
+	color:darkred;
+	text-decoration: none;
+}
+h3 {
+	background-color:mediumseagreen;
+	margin-left: 50px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	font size: 10;
+	margin-right: 350px;
+}
+h4 {
+	margin-left: 50px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-right: 50px;
+	font size: 10;
+}
+p {
+	margin-left: 55px;
+	margin-top: 10px;
+	margin-right: 50px;
+	font-family: "Avanta Garde";
+	font-size: 0.5;
+}
+#t02 {
+	width: 80%;
+	background-color: lightgrey;
+  	margin-left: auto;
+  	margin-right: auto;
+  	margin-top: 20px;
+}
+#t03 {
+	border: 2px solid black;
+}
+#t03{
+	font-family:"Avanta Garde";
+}
+h1{
+	text-align:center;
+}
+.fixáló{
+	float: right;
+	margin-top: 10px;
+	margin-right: 50px;
+}
+.alsosor{
+	background-color:mediumseagreen;
+	margin-left: 50px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	font size: 10;
+	margin-right: 5%;
+}
+img {
+	width: 300px;
+}
+.dropdown{
+	position: relative;
+	display: inline-block;
+}
+.dropdown-content{
+	display: none;
+	position: absolute;
+	margin-left:-115px;
+	margin-top: 2px;
+	background-color: #C0C0C0;
+	border: 1px solid black;
+	padding: 0px, 0px;
+	width: 300px;
+}
+.dropdown:hover .dropdown-content{
+	display: block;
+}

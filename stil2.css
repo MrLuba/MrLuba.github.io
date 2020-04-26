@@ -1,0 +1,39 @@
+body {background-color:silver;}
+table#t01 {width:100%}
+table#t01 {background-color: steelblue}
+table#t01 th {border: 1px solid black;}
+a:link{
+	color:black;
+	text-decoration: none;
+}
+a:visited{
+	color:black;
+	text-decoration: none;
+}
+a:hover{
+	color:darkred;
+	text-decoration: none;
+}
+p {
+	background-color:mediumseagreen;
+	margin-left: 10%;
+	margin-right: 25%;
+	font-family: "Arial black";
+}
+li{
+	margin-left:10%;
+	margin-right: 25%;
+	font-family: "Avanta Garde";
+}
+#p01{
+	background-color: silver;
+	margin-left: 12.5%;
+	margin-right: 25%;
+	font-family:"Avanta Garde";
+}
+h1{
+	text-align:center;
+}
+#ul01{
+	list-style-type: square;
+}
